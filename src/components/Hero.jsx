@@ -27,9 +27,10 @@ export const Hero = () => {
             <a href="#Projects"><button  className="px-8 py-3 bg-blue-600 text-white font-medium rounded-lg shadow-lg hover:bg-blue-700 transition-all">
               View Projects
             </button></a>
+            <a href="https://drive.google.com/drive/u/0/folders/1NciNN769RbKQmBas6NA2VWQcyaouNfj4" target='_blank'>
             <button className="px-8 py-3 border-2 border-slate-300 text-slate-700 font-medium rounded-lg hover:border-slate-900 hover:text-slate-900 transition-all">
               Download Resume
-            </button>
+            </button></a>
           </div>
         </div>
 
